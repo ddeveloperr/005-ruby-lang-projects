@@ -1,2 +1,2 @@
 # banking-in-ruby
-Simple banking application written in Ruby 
+Simple banking ATM application written in Ruby 
